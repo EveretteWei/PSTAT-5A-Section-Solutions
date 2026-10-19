@@ -9,17 +9,17 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - **Instructor:** Julie Swenson · swenson@pstat.ucsb.edu
 
 ## Discussions
-- [Discussion 1](Discussions/Discussion_1_Solutions.pdf)
-- [Discussion 2](Discussions/Discussion_2_Solutions.pdf)
-- [Discussion 3](Discussions/Discussion_3_Solutions.pdf)
+- [Discussion 1](Discussions/Discussion_1_Solutions.pdf) — Wed 9/30
+- [Discussion 2](Discussions/Discussion_2_Solutions.pdf) — Wed 10/7
+- [Discussion 3](Discussions/Discussion_3_Solutions.pdf) — Wed 10/14
 
 ## Labs
-- [Lab 1: Introduction to Python](Labs/Lab1.ipynb)
-- [Lab 2: Lists and Arrays](Labs/Lab2.ipynb)
-- [Lab 3: Comparisons, Tables](Labs/Lab3.ipynb) — download `students.txt` from Canvas and put it in the same folder before running.
-- [Lab 4: Loops, Simulations](Labs/Lab4.ipynb)
+- [Lab 1: Introduction to Python](Labs/Lab1.ipynb) — Mon 9/28
+- [Lab 2: Lists and Arrays](Labs/Lab2.ipynb) — Mon 10/5
+- [Lab 3: Comparisons, Tables](Labs/Lab3.ipynb) — Mon 10/12 — download `students.txt` from Canvas and put it in the same folder before running.
+- [Lab 4: Loops, Simulations](Labs/Lab4.ipynb) — Mon 10/19
 
 ## Quizzes
-- [Quiz 1](Quizzes/Quiz_1_Solutions.pdf)
-- [Quiz 2](Quizzes/Quiz_2_Solutions.pdf)
-- [Quiz 3](Quizzes/Quiz_3_Solutions.pdf)
+- [Quiz 1](Quizzes/Quiz_1_Solutions.pdf) — Mon 10/5
+- [Quiz 2](Quizzes/Quiz_2_Solutions.pdf) — Mon 10/12
+- [Quiz 3](Quizzes/Quiz_3_Solutions.pdf) — Mon 10/19
