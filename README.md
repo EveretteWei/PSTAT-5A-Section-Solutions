@@ -12,6 +12,7 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - [Discussion 1](Discussions/Discussion_1_Solutions.pdf) — Wed 9/30
 - [Discussion 2](Discussions/Discussion_2_Solutions.pdf) — Wed 10/7
 - [Discussion 3](Discussions/Discussion_3_Solutions.pdf) — Wed 10/14
+- [Discussion 4](Discussions/Discussion_4_Solutions.pdf) — Wed 10/21
 
 ## Labs
 - [Lab 1: Introduction to Python](Labs/Lab1.ipynb) — Mon 9/28
