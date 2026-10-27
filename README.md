@@ -19,8 +19,10 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - [Lab 2: Lists and Arrays](Labs/Lab2.ipynb) — Mon 10/5
 - [Lab 3: Comparisons, Tables](Labs/Lab3.ipynb) — Mon 10/12 — download `students.txt` from Canvas and put it in the same folder before running.
 - [Lab 4: Loops, Simulations](Labs/Lab4.ipynb) — Mon 10/19
+- [Lab 5: Conditionals, Simulating Continuous Distributions](Labs/Lab5.pdf) — Mon 10/26
 
 ## Quizzes
 - [Quiz 1](Quizzes/Quiz_1_Solutions.pdf) — Mon 10/5
 - [Quiz 2](Quizzes/Quiz_2_Solutions.pdf) — Mon 10/12
 - [Quiz 3](Quizzes/Quiz_3_Solutions.pdf) — Mon 10/19
+- [Quiz 4](Quizzes/Quiz_4_Solutions.pdf) — Mon 10/26
