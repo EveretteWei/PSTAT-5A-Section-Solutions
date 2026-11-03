@@ -28,3 +28,4 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - [Quiz 2](Quizzes/Quiz_2_Solutions.pdf) — Mon 10/12
 - [Quiz 3](Quizzes/Quiz_3_Solutions.pdf) — Mon 10/19
 - [Quiz 4](Quizzes/Quiz_4_Solutions.pdf) — Mon 10/26
+- [Quiz 5](Quizzes/Quiz_5_Solutions.pdf) — Mon 11/2
