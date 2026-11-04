@@ -14,6 +14,7 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - [Discussion 3](Discussions/Discussion_3_Solutions.pdf) — Wed 10/14
 - [Discussion 4](Discussions/Discussion_4_Solutions.pdf) — Wed 10/21
 - [Discussion 5](Discussions/Discussion_5_Solutions.pdf) — Wed 10/28
+- [Discussion 6, Part II](Discussions/Discussion_6_Part_II_Solutions.pdf) — Wed 11/4
 
 ## Labs
 - [Lab 1: Introduction to Python](Labs/Lab1.ipynb) — Mon 9/28
@@ -22,6 +23,7 @@ Solutions for the discussion sections, labs, and quizzes, for review.
 - [Lab 4: Loops, Simulations](Labs/Lab4.ipynb) — Mon 10/19
 - [Lab 5: Conditionals, Simulating Continuous Distributions](Labs/Lab5.pdf) — Mon 10/26
 - [Lab 6 (Discussion 6 Worksheet, Part 1)](Labs/Lab6.pdf) — Mon 11/2
+- [Lab 6 (Discussion 6 Worksheet, Part 1) — Updated](Labs/Lab6_Updated.pdf) — updated Wed 11/4
 
 ## Quizzes
 - [Quiz 1](Quizzes/Quiz_1_Solutions.pdf) — Mon 10/5
