@@ -16,6 +16,7 @@ Solutions for the labs, discussion sections, and quizzes, for review.
 - [Lab 5: Conditionals, Simulating Continuous Distributions](Labs/Lab5.pdf) — Mon 10/26
 - [Lab 6: Discussion 6 Worksheet, Part 1](Labs/Lab6.pdf) — Mon 11/2
 - [Lab 6: Discussion 6 Worksheet, Part 1, Updated](Labs/Lab6_Updated.pdf) — updated Wed 11/4
+- [Lab 7: Discussion 7 Worksheet](Labs/Lab7.pdf) — Mon 11/9
 
 ## Discussions
 - [Discussion 1](Discussions/Discussion_1_Solutions.pdf) — Wed 9/30
