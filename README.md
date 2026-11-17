@@ -17,7 +17,7 @@ Solutions for the labs, discussion sections, and quizzes, for review.
 - [Lab 6: Discussion 6 Worksheet, Part 1](Labs/Lab6.pdf) — Mon 11/2
 - [Lab 6: Discussion 6 Worksheet, Part 1, Updated](Labs/Lab6_Updated.pdf) — updated Wed 11/4
 - [Lab 7: Discussion 7 Worksheet](Labs/Lab7.pdf) — Mon 11/9
-- [Lab 8: Descriptive Statistics, Visualizations](Labs/Lab8.ipynb) — Mon 11/16 — download `listings.csv` from Canvas and put it in the same folder before running.
+- [Lab 8: Descriptive Statistics, Visualizations](Labs/Lab8.ipynb) — Mon 11/16, updated Tue 11/17 — download `listings.csv` from Canvas and put it in the same folder before running.
 
 ## Discussions
 - [Discussion 1](Discussions/Discussion_1_Solutions.pdf) — Wed 9/30
@@ -35,3 +35,4 @@ Solutions for the labs, discussion sections, and quizzes, for review.
 - [Quiz 4](Quizzes/Quiz_4_Solutions.pdf) — Mon 10/26
 - [Quiz 5](Quizzes/Quiz_5_Solutions.pdf) — Mon 11/2
 - [Quiz 6](Quizzes/Quiz_6_Solutions.pdf) — Mon 11/9
+- [Quiz 7](Quizzes/Quiz_7_Solutions.pdf) — Mon 11/16
