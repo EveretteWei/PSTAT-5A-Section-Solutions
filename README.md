@@ -27,6 +27,7 @@ Solutions for the labs, discussion sections, and quizzes, for review.
 - [Discussion 5](Discussions/Discussion_5_Solutions.pdf) — Wed 10/28
 - [Discussion 6: Discussion 6 Worksheet, Part 2](Discussions/Discussion_6_Part_2_Solutions.pdf) — Wed 11/4
 - Discussion 7 — Wed 11/11, cancelled for Veterans Day
+- [Discussion 8](Discussions/Discussion_8_Solutions.pdf) — Wed 11/18
 
 ## Quizzes
 - [Quiz 1](Quizzes/Quiz_1_Solutions.pdf) — Mon 10/5
